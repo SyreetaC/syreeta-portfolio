@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.main-content {
+  display: flex;
+}
+
+.image-container {
+  margin: 40px;
+}
+
+.profile-photo {
+  border-radius: 50%;
+  text-align: center;
+
+  margin: auto;
+  height: 512px;
+}
+
+.profile-photo:focus,
+.profile-photo:hover {
+  animation: wobble 1s 1;
+}
+
+@keyframes wobble {
+  25% {
+    transform: rotate(15deg);
+  }
+  50% {
+    transform: rotate(-30deg);
+  }
+  75% {
+    transform: rotate(5deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
