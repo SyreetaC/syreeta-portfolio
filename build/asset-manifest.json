@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/syreeta-portfolio/static/css/main.ae43bcb8.chunk.css",
+    "main.js": "/syreeta-portfolio/static/js/main.a8380363.chunk.js",
+    "main.js.map": "/syreeta-portfolio/static/js/main.a8380363.chunk.js.map",
+    "runtime-main.js": "/syreeta-portfolio/static/js/runtime-main.2eb1f6a8.js",
+    "runtime-main.js.map": "/syreeta-portfolio/static/js/runtime-main.2eb1f6a8.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/syreeta-portfolio/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b0cd5a0b.chunk.js": "/syreeta-portfolio/static/js/2.b0cd5a0b.chunk.js",
+    "static/js/2.b0cd5a0b.chunk.js.map": "/syreeta-portfolio/static/js/2.b0cd5a0b.chunk.js.map",
+    "static/js/3.07f856b5.chunk.js": "/syreeta-portfolio/static/js/3.07f856b5.chunk.js",
+    "static/js/3.07f856b5.chunk.js.map": "/syreeta-portfolio/static/js/3.07f856b5.chunk.js.map",
+    "index.html": "/syreeta-portfolio/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/syreeta-portfolio/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ae43bcb8.chunk.css.map": "/syreeta-portfolio/static/css/main.ae43bcb8.chunk.css.map",
+    "static/js/2.b0cd5a0b.chunk.js.LICENSE.txt": "/syreeta-portfolio/static/js/2.b0cd5a0b.chunk.js.LICENSE.txt",
+    "static/media/Portfolio photo 3.24516615.jpg": "/syreeta-portfolio/static/media/Portfolio photo 3.24516615.jpg",
+    "static/media/password.a5f87fb6.jpg": "/syreeta-portfolio/static/media/password.a5f87fb6.jpg",
+    "static/media/quiz.531a6430.jpg": "/syreeta-portfolio/static/media/quiz.531a6430.jpg",
+    "static/media/vegan-pals.a366ee2e.png": "/syreeta-portfolio/static/media/vegan-pals.a366ee2e.png",
+    "static/media/weather.20863ddf.jpg": "/syreeta-portfolio/static/media/weather.20863ddf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eb1f6a8.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b0cd5a0b.chunk.js",
+    "static/css/main.ae43bcb8.chunk.css",
+    "static/js/main.a8380363.chunk.js"
+  ]
+}
