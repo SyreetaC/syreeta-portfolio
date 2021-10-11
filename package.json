@@ -1,0 +1,20 @@
+{
+  "name": "syreeta-portfolio",
+  "description": "[!screenshot1](<./../public/assets/screenshots/Screenshot%20(54).png>)\r [!screenshot2](<./../public/assets/screenshots/Screenshot%20(55).png>)\r [!screenshot3](<./../public/assets/screenshots/Screenshot%20(56).png>)\r [!screenshot4](<./../public/assets/screenshots/Screenshot%20(57).png>)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyreetaC/syreeta-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyreetaC/syreeta-portfolio/issues"
+  },
+  "homepage": "https://github.com/SyreetaC/syreeta-portfolio#readme"
+}
