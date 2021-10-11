@@ -8,7 +8,7 @@ I am a highly capable full-stack developer, a creative problem-solver and have e
 
 ## Screenshots
 
-![screenshot](<public\assets\screenshots\Screenshot (54).png>)
+![screenshot](<public\assets\screenshots\Screenshot(54).png>)
 
 ![screenshot](<public/assets/screenshots/Screenshot%20(55).png>)
 
