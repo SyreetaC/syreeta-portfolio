@@ -1,0 +1,11 @@
+.footerContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.footerItem {
+  font-size: 6rem;
+}
